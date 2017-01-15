@@ -1,0 +1,14 @@
+#Eclipse
+.classpath
+.settings
+.project
+bin/
+
+#Gradle
+.gradle
+gradle
+gradlew
+gradlew.bat
+
+#Audio files
+*.wav
