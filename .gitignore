@@ -9,6 +9,7 @@ bin/
 gradle
 gradlew
 gradlew.bat
+build
 
 #Audio files
 *.wav
